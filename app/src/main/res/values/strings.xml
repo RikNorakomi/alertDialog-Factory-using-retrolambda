@@ -1,0 +1,19 @@
+<resources>
+    <string name="app_name">DialogFactory</string>
+
+    // Dialog one
+    <string name="dialog_one_title">dialog one</string>
+    <string name="dialog_one_message">message for dialog one</string>
+    <string name="dialog_one_button_positive">I understand</string>
+
+    // Dialog two
+    <string name="dialog_two_message">dialog two message</string>
+    <string name="dialog_two_button_positive">ok</string>
+    <string name="dialog_two_button_negative">no way!</string>
+
+    // Dialog three
+    <string name="dialog_three_title">title dialog three</string>
+    <string name="dialog_three_button_positive">yes</string>
+    <string name="dialog_three_button_negative">no</string>
+    <string name="dialog_three_button_neutral">cancel</string>
+</resources>
